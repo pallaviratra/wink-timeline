@@ -1,0 +1,32 @@
+{
+  "name": "wink-nlp-examples",
+  "version": "1.0.0",
+  "description": "directory of wink-nlp examples",
+  "main": "timeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallaviratra/wink-nlp-examples.git"
+  },
+  "keywords": [
+    "wink-nlp",
+    "AI",
+    "Natural",
+    "Language",
+    "Processing",
+    "Examples",
+    "wink"
+  ],
+  "author": "Pallavi Ratra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pallaviratra/wink-nlp-examples/issues"
+  },
+  "homepage": "https://github.com/pallaviratra/wink-nlp-examples#readme",
+  "dependencies": {
+    "wink-eng-lite-model": "file:../tarballs/wink-eng-lite-model-1.0.0.tgz",
+    "wink-nlp": "file:../tarballs/wink-nlp-0.0.0.tgz"
+  }
+}
